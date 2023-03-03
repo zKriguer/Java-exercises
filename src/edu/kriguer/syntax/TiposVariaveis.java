@@ -1,4 +1,4 @@
-package edu.kriguer.primeirasemana;
+package edu.kriguer.syntax;
 
 public class TiposVariaveis {
     public static void main(String[] args) {
