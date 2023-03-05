@@ -26,6 +26,5 @@ public class User {
         System.out.println("A TV está: " + (smartTv.status ? "Ligada" : "Desligada"));
         System.out.println("Canal atual: " + (smartTv.canal != 0 ? smartTv.canal : "A tv está desligada"));
         System.out.println("Volume atual: " + smartTv.volume);
-
     }
 }
